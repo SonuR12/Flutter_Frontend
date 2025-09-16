@@ -2,7 +2,7 @@
 
 A beautiful and responsive Flutter frontend for a language learning app, designed with a clean UI/UX for improved engagement and user experience.
 
-![App Screenshot](https://github.com/SonuR12/flutter_Frontend/blob/main/assets/screenshot.png)
+![App Screenshot](https://github.com/SonuR12/Flutter_Frontend/blob/main/demo.png)
 
 ---
 
