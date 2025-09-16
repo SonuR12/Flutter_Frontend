@@ -1,17 +1,87 @@
-# frontend
+# 📱 Flutter Frontend: Language Learning App UI
 
-A new Flutter project.
+A beautiful and responsive Flutter frontend for a language learning app, designed with a clean UI/UX for improved engagement and user experience.
 
-## Getting Started
+![App Screenshot](https://github.com/SonuR12/flutter_Frontend/blob/main/assets/screenshot.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clean and modern UI
+- Responsive design for mobile
+- Dashboard with:
+  - Personalized greeting
+  - Date display
+  - Mood selector
+  - Search bar
+  - Exercises section with categories (Speaking, Listening, Reading, Writing)
+- Smooth navigation experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_First
+---
+
+## 📁 Folder Structure
+
+```bash
+flutter_Frontend/
+├── android/              # Android-specific files
+├── ios/                  # iOS-specific files
+├── lib/                  # Main Flutter codebase
+│   ├── pages/            # All screen/page files (e.g., home_page.dart)
+│   └── main.dart         # App entry point
+├── test/                 # Test files
+├── assets/               # Images and static assets (add screenshot here)
+├── pubspec.yaml          # Project dependencies and configuration
+└── README.md             # Project documentation
+
+```
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK (usually comes with Flutter)
+- Xcode or Android Studio (for building on iOS or Android)
+
+### 🚀 Run Locally
+
+```bash
+git clone https://github.com/SonuR12/flutter_Frontend.git
+cd flutter_Frontend
+flutter pub get
+flutter run
+
+```
+---
+## 📸 Preview
+
+![image](https://github.com/SonuR12/Flutter_Frontend/blob/main/demo.png)
+
+---
+## 📌 To-Do (Optional)
+
+- [ ] Add navigation to each exercise
+- [ ] Implement backend integration
+- [ ] Dark mode support
+
+---
+
+## 👨‍💻 Author
+
+**Sonu R**
+
+- GitHub: [@SonuR12](https://github.com/SonuR12)
+- Email: *(add your email here optionally)*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
+
+
+
+
+
