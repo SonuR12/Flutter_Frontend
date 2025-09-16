@@ -53,12 +53,7 @@ flutter pub get
 flutter run
 
 ```
----
-## 📸 Preview
 
-![image](https://github.com/SonuR12/Flutter_Frontend/blob/main/demo.png)
-
----
 ## 📌 To-Do (Optional)
 
 - [ ] Add navigation to each exercise
